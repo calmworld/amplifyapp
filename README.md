@@ -1,4 +1,5 @@
 # AmplifyApp
+A note app where users can create, view, update and delete notes.
 
 # Tech Used:
 #### - React
