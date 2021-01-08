@@ -1,5 +1,5 @@
 # AmplifyApp
-A note app where users can create, view, update and delete notes.
+A note app where users can create, view and delete notes.
 
 # Tech Used:
 #### - React
@@ -7,7 +7,8 @@ A note app where users can create, view, update and delete notes.
 #### - User Auth: Signup, Login, Reset Password
 #### - GraphQL API
 
-
+# Link to Deployed App with AWS
+https://main.d1e9t6b1l344ne.amplifyapp.com/
 
 # Getting Started with Create React App
 
